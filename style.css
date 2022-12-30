@@ -32,8 +32,8 @@ nav ul .btn{
 transition: 0.4s; 
 }
 #div-d img{
-   max-height: 500px;
-   max-width: 600px;
+   max-height: 200px;
+   max-width: 300px;
    margin-right: 30px;
    margin-top: 200px;
    display: flex;
