@@ -13,12 +13,12 @@ justify-content: space-between;
  }
 nav #div-a{
    margin-top: 10px;
-   margin-left: 10px;
+   margin-left: 4px;
    color: white;
 }
 nav #div-b{
    margin-top: 5px;
-   margin-left: 10px;
+   margin-left: 4px;
 }
 nav ul{
    float: right;
@@ -76,6 +76,7 @@ h2{
 }
 .div-3{
    justify-content: space-between;
+   margin-left: 4px;
 }
 .div-e{
    margin-top: 20px;
@@ -85,6 +86,7 @@ h2{
    max-height: 500px;
    max-width: 300px;
    margin-right: 50px;
+   margin-left: 30px;
 }
 .footer-1{
    display: flex;
@@ -103,7 +105,8 @@ h2{
 .card-1{
    background-color: red;
    color: white;
-   margin-right: 20px;
+   margin-right: 10px;
+   margin-left: 25px;
    margin-bottom: 10px;
    transition: 0.3s;
 }
@@ -116,7 +119,8 @@ h2{
 .card-2{
    background-color: navy;
    color: white;
-   margin-right: 20px;
+   margin-right: 10px;
+   margin-left: 25px;
    margin-bottom: 10px;
    transition: 0.3s;
 }
@@ -129,7 +133,8 @@ h2{
 .card-3{
    background-color: green;
    color: white;
-   margin-right: 20px;
+   margin-right: 10px;
+   margin-left: 25px;
    margin-bottom: 10px;
    transition: 0.3s;
 }
